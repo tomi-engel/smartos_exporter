@@ -1,6 +1,6 @@
 # smartos_exporter
 
-Prometheus exporter of SmartOS machine metrics
+A Prometheus exporter for SmartOS machine metrics
 
 ## Why?
 
