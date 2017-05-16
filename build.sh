@@ -6,7 +6,7 @@ echo "  GOPATH: `go env GOPATH`"
 echo "    GOOS: `go env GOOS`"
 echo "  GOARCH: `go env GOARCH`"
 
-GOPATH = `go env GOPATH`
+GOPATH=`go env GOPATH`
 #GOOS=solaris
 #GOARCH=amd64
 #export GOOS GOARCH
